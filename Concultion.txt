@@ -1,0 +1,126 @@
+Student's name: wq/nStudent's mark  12.0/nHighest mark in class is: 12.0/nLowest mark in clss is: 12.0/nNumber of students above 90 in class: 0.0/nNumber of student fails: 12.0/nAverage mark is: 12.0/nComments:/nqweqwe/n/n
+Student's name: wq/nStudent's mark  12.0/nHighest mark in class is: 12.0/nLowest mark in clss is: 12.0/nNumber of students above 90 in class: 0.0/nNumber of student fails: 12.0/nAverage mark is: 12.0/nComments:/nqweqweqweqwe/n/n
+Student's name: wq/nStudent's mark  12.0/nHighest mark in class is: 12.0/nLowest mark in clss is: 12.0/nNumber of students above 90 in class: 0.0/nNumber of student fails: 12.0/nAverage mark is: 12.0/nComments:/nqweqweqweqweqweqwe/n/n
+Student's name: wq/nStudent's mark  12.0/nHighest mark in class is: 12.0/nLowest mark in clss is: 12.0/nNumber of students above 90 in class: 0.0/nNumber of student fails: 12.0/nAverage mark is: 12.0/nComments:/nqweqweqweqweqweqweqweqwe/n/n
+Student's name: wq/nStudent's mark  12.0/nHighest mark in class is: 12.0/nLowest mark in clss is: 12.0/nNumber of students above 90 in class: 0.0/nNumber of student fails: 12.0/nAverage mark is: 12.0/nComments:/nqweqweqweqweqweqweqweqweqweqwe/n/n
+Student's name: wq/nStudent's mark  100.0/nHighest mark in class is: 100.0/nLowest mark in clss is: 100.0/nNumber of students above 90 in class: 10.0/nNumber of student fails: 100.0/nAverage mark is: 100.0/nComments:/n/n/n
+Student's name: qwStudent's mark  12.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: wqStudent's mark  21.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: qwStudent's mark  23.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: wqStudent's mark  34.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: qwStudent's mark  67.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: wqStudent's mark  70.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: qwStudent's mark  90.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: wqStudent's mark  90.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: qwStudent's mark  90.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: xzStudent's mark  90.0Highest mark in class is: 90.0Lowest mark in clss is: 12.0Number of students above 90 in class: 4.0Number of student fails: 58.7Average mark is: 58.7Comments:
+Student's name: qw
+Student's mark  12.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+asdawdawd
+
+
+Student's name: wq
+Student's mark  23.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqweqwe
+
+
+Student's name: qw
+Student's mark  34.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqweqwe
+
+
+Student's name: wq
+Student's mark  34.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqweqwe
+
+
+Student's name: qw
+Student's mark  45.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqweqwe
+
+
+Student's name: wq
+Student's mark  90.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqwqwe
+
+
+Student's name: qw
+Student's mark  90.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqwe
+
+
+Student's name: wq
+Student's mark  90.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqwe
+
+
+Student's name: qw
+Student's mark  90.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqwe
+
+
+Student's name: qw
+Student's mark  90.0
+Highest mark in class is: 90.0
+Lowest mark in clss is: 12.0
+Number of students above 90 in class: 5.0
+Number of student fails: 59.8
+Average mark is: 59.8
+Comments:
+qweqwe
+
+

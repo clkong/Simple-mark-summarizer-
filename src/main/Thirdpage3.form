@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="student10" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student9" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student8" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student1" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student2" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student3" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student4" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student5" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student6" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student7" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="mark9" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark8" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark7" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark6" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark5" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark4" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark3" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark1" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark2" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark10" min="-2" pref="38" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="student14" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student11" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student12" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student13" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student15" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student16" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student17" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student18" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student19" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="student20" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="mark19" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark18" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark17" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark16" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark15" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark14" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark13" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark12" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark11" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark20" min="-2" pref="38" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="student21" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student23" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student22" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student24" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student25" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student26" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student27" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student28" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student29" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                              <Component id="student30" alignment="0" min="-2" pref="82" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="mark25" alignment="0" max="32767" attributes="0"/>
+                              <Component id="mark24" alignment="0" max="32767" attributes="0"/>
+                              <Component id="mark23" alignment="0" max="32767" attributes="0"/>
+                              <Component id="mark22" alignment="0" max="32767" attributes="0"/>
+                              <Component id="mark27" alignment="0" max="32767" attributes="0"/>
+                              <Component id="mark26" alignment="0" max="32767" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="mark30" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark28" alignment="0" pref="39" max="32767" attributes="0"/>
+                                      <Component id="mark29" min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="mark21" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel2" max="32767" attributes="0"/>
+              <Group type="102" attributes="0">
+                  <EmptySpace pref="35" max="32767" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="58" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student21" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark21" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student22" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark22" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student23" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark23" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student24" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark24" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student25" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark25" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student26" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark26" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student27" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark27" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student28" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark28" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="student29" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark29" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="student30" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="mark30" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student11" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student12" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student13" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student14" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student15" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student16" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark16" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student17" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark17" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student18" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark18" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="student19" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark19" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="student20" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="mark20" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JTextField" name="mark15">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark16">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark17">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark18">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark19">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mark19ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark20">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student21">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student22">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student23">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student24">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="student24ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="student1">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student25">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark1">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student26">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student27">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student28">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student29">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student30">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark21">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark22">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark23">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark24">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mark24ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="student9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark25">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student10">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark26">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark27">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark28">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark29">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark30">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark10">
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Confirm"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="student11">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student12">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student13">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student14">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student15">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student16">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student17">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student18">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student19">
+        </Component>
+        <Component class="javax.swing.JTextField" name="student20">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark11">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark12">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark13">
+        </Component>
+        <Component class="javax.swing.JTextField" name="mark14">
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="33" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="100" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="74" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jLabel3" min="-2" pref="295" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="103" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="36" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Simple mark summarizer"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="2" name="C:\Users\clkon\Documents\NetBeansProjects\Simple-mark-summarizer.-master\Grades-2opt-300x295.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="36" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Everyone&apos;s name and score :"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
